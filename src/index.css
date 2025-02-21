@@ -195,3 +195,9 @@ body {
     transform: rotate(0deg);
   }
 }
+
+.my-div {
+  border: 2px solid white; /* Black border around the div */
+  padding: 10px; /* Adds space inside the div */
+  margin: 10px; /* Adds space outside the div */
+}

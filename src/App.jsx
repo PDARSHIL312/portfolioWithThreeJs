@@ -5,7 +5,6 @@ import Navbar from "./section/Navbar.jsx";
 const App = () => {
   return (
     <>
-      \
       <Navbar />
     </>
   );
